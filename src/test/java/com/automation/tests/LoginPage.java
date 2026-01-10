@@ -2,11 +2,11 @@ package com.automation.tests;
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.SelenideElement;
 import static com.codeborne.selenide.Selenide.$;
-import org.junit.jupiter.api.BeforeEach;
+//import org.junit.jupiter.api.BeforeEach;
 //import static com.codeborne.selenide.Selenide.open; 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Condition.visible;
-import static com.codeborne.selenide.Condition.*;
+//import static com.codeborne.selenide.Condition.*;
 
 
 public class LoginPage {

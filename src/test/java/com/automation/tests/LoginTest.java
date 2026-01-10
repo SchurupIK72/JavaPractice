@@ -10,7 +10,8 @@ public class LoginTest extends BaseTest{
     
     @BeforeEach
     void initPage() {
-        loginPage = new LoginPage();} 
+        loginPage = new LoginPage();
+    } 
 
     @Test
     public void runLoginTests() {
