@@ -7,6 +7,6 @@ public abstract class BaseApiTest {
     protected static final String API_KEY = "API_KEY123";
         @BeforeAll
     static void setUp() {
-        RestAssured.baseURI = "http://qa-stand-login.inzhenerka.tech/api";
+        RestAssured.baseURI = "https://qa-stand-login.inzhenerka.tech/api";
 }
 }
