@@ -10,7 +10,7 @@ import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.TestMethodOrder;
 
 
-@Disabled
+//@Disabled
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class UserApiTest extends BaseApiTest{
 
